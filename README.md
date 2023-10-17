@@ -9,9 +9,15 @@ Admin can login and manage the faculties and student details and also view proje
 Flask is an API of Python that allows us to build up web-applications. Flask’s framework is more explicit than Django’s framework and is also easier to learn because it has less base code to implement a simple web-Application. Flask is based on WSGI(Web Server Gateway Interface) toolkit and Jinja2 template engine.
 
 Higher compatibility with latest technologies
+
 Easier to use for simple cases
+
 Codebase size is relatively smaller
+
 Easy to build a quick prototype
+
 Easy to develop and maintain applications
+
 Database integration is easy
+
 Minimal yet powerful platform
